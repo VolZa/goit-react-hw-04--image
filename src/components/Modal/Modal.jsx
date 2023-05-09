@@ -1,4 +1,3 @@
-// import { Component } from 'react';
 import { createPortal } from 'react-dom';
 import { Backdrop, ModalImg } from './Modal.styled';
 import { useEffect } from 'react';
