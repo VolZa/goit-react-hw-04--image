@@ -86,6 +86,3 @@ export const App = () =>  {
     </Layout>
   );
 }
-
-//{isLoading && <Loader />}
-// {arrImages?.length && (<ImageGallery items={arrImages} />)}
